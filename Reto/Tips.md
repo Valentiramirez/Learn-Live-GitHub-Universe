@@ -11,6 +11,9 @@ print("Hello, world!")
 for i in range(10):
     print(i)
 > He agregado mi tip - Tu Nombre
+> print("Hello, world!")
+for i in range(10):
+    print(i)
 ```py
 print("Hello, world!")
 for i in range(10):
