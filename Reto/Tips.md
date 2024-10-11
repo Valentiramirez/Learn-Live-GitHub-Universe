@@ -12,6 +12,9 @@ for i in range(10):
     print(i)
 > He agregado mi tip - Tu Nombre
 ```py
+print("Hello, world!")
+for i in range(10):
+    print(i)
 print("Depronto que mostrar mas ejemplos de clonar un repositorio en el reto y tambien como podemos hacer nuestro perfil mas interactivo")
 for i in range(10):
     print(i)
