@@ -1,1 +1,5 @@
 git clone url_de_tu_repo
+print("Depronto que mostrar mas ejemplos de clonar un repositorio en el reto y tambien como podemos hacer nuestro perfil mas interactivo")
+for i in range(10):
+    print(i)
+He agregado mi tip - Valentina Ramirez Cortes
